@@ -2,13 +2,13 @@
 
 A junior developer that strives to create test driven projects under limited time restrains.
 
-Previously a Technical Project Manager, who enjoyed solving aswell as making tech problems, so much so that I had to get more hands on with development.
+Previously a Technical Project Manager, who enjoys making problems as much as solving, so much so that I had to get more skilled in development.
 
 Now I'm looking for a role which gives me the opportunity to continue progressing and growing at the incredibly rapid rate I have during my time with Makers Academy.
 
 ## Skills
 
-#### Software/Web Development & Testing
+#### Software/Web Development
 
 * A strong interest in keeping technical debt to a minimum (OOP Principles such as SOLID and DRY)
 * Experience building Apps with: Rails, AngularJS, ExpressJS and Sinatra
@@ -17,25 +17,25 @@ Now I'm looking for a role which gives me the opportunity to continue progressin
 * Practiced modern development methodologies including agile, XP, TDD/BDD, pair programming
 * Design to HTML/CSS web pages
 
-#### Technical Project Management
+#### Management
 
-* Developed a Project management team from nothing, to being responsible for over £7m turnover in 2015. I guided myself, 9 Technical Project managers and 1 Design Manager.
-* Held responsibility for entire product deployment and roll out of new products across the UK,DE,AUS and USA.
-* Helped create 3 stage QA process for products across Desktop,Tablet and Mobile, reducing error rate by over 20%.
+* Developed a Project management team responsible for over £7m turnover in 2015. I led 9 Technical Project managers and 1 Design Manager.
+* Responsible for entire product deployment and roll out of new products across the UK, DE, AUS and USA.
+* Developed a 3 stage QA process for products across Desktop, Tablet and Mobile, reducing error rate by over 20%.
 
 #### Design
 
-* Designed Overlays, Banners and emails for industry leaders such as Marks and Spencers, Debenhams and Goldsmiths, ready for Web Designers to bring to life
+* Designed Overlays, Banners and emails for industry leaders, ready for Web Designers to bring to life
 * Interactive PDF's made in InDesign for client meetings and tender responses
 * Knowledge of printing process, materials and layouts for publications and packaging files for print
 
 ## Projects
 
-Project | Description | Built With | Tested With
+Project | Description | Built With | Testing
 --- | --- | --- | ---
 [Watched](https://github.com/acookson91/watched) | A phone app that allows you to share videos with a selected friend. Only once they have watched, or saved the video can they post there own back| Backend: Ruby, Rails, Postgres /w ActiveRecord, Frontend: Angularjs, HTML5(Slim), CSS3, GoogleMaps API | RSpec, Protractor, Karma
 [Handl](https://github.com/acookson91/handl-frontend) | A applicaton that is the Uber for parcel delivery.  Users can register allowing them to add parcels and track delivery, while couiers can interact with deliveries and find directions, update status| Backend: Ruby, Rails, Postgres /w ActiveRecord, Frontend: Angularjs, HTML5(Slim), CSS3, GoogleMaps API | RSpec, Protractor
-[Post a Goat](https://github.com/acookson91/post-a-goat) | Want to send your friend a goat emoji text? Probably not, but we wanted to. Doing this was our first experience creating an angularJS Frontend with Rails backend   | Backend: Ruby, Rails, Postgres /w ActiveRecord, Frontend: Angularjs, HTML5(Slim), CSS3, Twilio API | RSpec, Capybara, Protractor
+[Post a Goat](https://github.com/acookson91/post-a-goat) | Want to send your friend a goat emoji text? Probably not, but we wanted to. Doing this was our first experience creating an angularJS Frontend with Rails backend   | Backend: Ruby, Rails, Postgres /w ActiveRecord,<br> Frontend: Angularjs, HTML5(Slim), CSS3, Twilio API | RSpec, Capybara, Protractor
 [Air BnB Clone](https://github.com/acookson91/makers_bnb) | A AirBnb clone built using Sinatra. We were able to create the full funtionality of AirBnb including users,messages,booking requests and booking confirmations | Backend: Ruby, Sinatra, Postgres /w DataMapper, Frontend: HTML5(Slim), CSS3, Bootstrap| RSpec, Capybara, Jasmine
 [Personal Site](#) | My personal website written before I started at Makers. Certain elements need updating to my current level. My blog can be found in the wild [here](#) | HTML5, CSS3 | -
 
