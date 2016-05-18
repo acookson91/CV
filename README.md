@@ -37,7 +37,7 @@ Project | Description | Built With | Tested With
 [Handl](https://github.com/acookson91/handl-frontend) | A applicaton that is the Uber for parcel delivery.  Users can register allowing them to add parcels and track delivery, while couiers can interact with deliveries and find directions, update status| Backend: Ruby, Rails, Postgres /w ActiveRecord, Frontend: Angularjs, HTML5(Slim), CSS3, GoogleMaps API | RSpec, Protractor
 [Post a Goat](https://github.com/acookson91/post-a-goat) | Want to send your friend a goat emoji text? Probably not, but we wanted to. Doing this was our first experience creating an angularJS Frontend with Rails backend   | Backend: Ruby, Rails, Postgres /w ActiveRecord, Frontend: Angularjs, HTML5(Slim), CSS3, Twilio API | RSpec, Capybara, Protractor
 [Air BnB Clone](https://github.com/acookson91/makers_bnb) | A AirBnb clone built using Sinatra. We were able to create the full funtionality of AirBnb including users,messages,booking requests and booking confirmations | Backend: Ruby, Sinatra, Postgres /w DataMapper, Frontend: HTML5(Slim), CSS3, Bootstrap| RSpec, Capybara, Jasmine
-[Personal Site](https://github.com/michaellennox/michaellennox.github.io) | My personal website written before I started at Makers. Certain elements need updating to my current level. My blog can be found in the wild [here](http://www.michaellennox.me/blog/) | HTML5, CSS3, Jekyll | -
+[Personal Site](https://github.com/michaellennox/michaellennox.github.io) | My personal website written before I started at Makers. Certain elements need updating to my current level. My blog can be found in the wild [here](#) | HTML5, CSS3 | -
 
 
 ## Experience
