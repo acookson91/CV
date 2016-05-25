@@ -74,7 +74,7 @@ __Ergonomics (Human Factors Design), Bachelor of Science (BSc)__
 
 ## Other
 
-* Love: Phycology and Human Behavior,Business studies, Sailing and all books that help me improve
+* Love: Psychology and Human Behavior,Business studies, Sailing and all books that help me improve
 * Hobbies: Trying to Make anything from Cars, Bicycles to T-shirts
 
 ## Contact
