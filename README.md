@@ -21,7 +21,7 @@ Now I'm looking for a role which gives me the opportunity to continue progressin
 
 * Developed a Project management team responsible for over £7m turnover in 2015. I led 9 Technical Project managers and 1 Design Manager.
 * Responsible for entire product deployment and roll out of new products across the UK, DE, AUS and USA.
-* Developed a 3 stage QA process for products across Desktop, Tablet and Mobile, reducing error rate by over 20%.
+* Helped Develop a 3 stage QA process for products across Desktop, Tablet and Mobile, reducing error rate by over 20%.
 
 #### Design
 
