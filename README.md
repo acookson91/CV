@@ -12,7 +12,7 @@ Now I'm looking for a role which gives me the opportunity to continue progressin
 
 * A strong interest in keeping technical debt to a minimum (OOP Principles such as SOLID and DRY)
 * Experience building Apps with: Rails, AngularJS, ExpressJS and Sinatra
-* Comfortable testing using: RSpec, Capybaram, Selenium, Jasmine, Karma and Protractor
+* Comfortable testing using: RSpec, Capybara, Selenium, Jasmine, Karma and Protractor
 * Experience working with both SQL and NoSQL databases
 * Practiced modern development methodologies including agile, XP, TDD/BDD, pair programming
 * Design to HTML/CSS web pages
@@ -34,7 +34,7 @@ Now I'm looking for a role which gives me the opportunity to continue progressin
 Project | Description | Built With | Testing
 --- | --- | --- | ---
 [Watched](https://github.com/acookson91/watched) | A app that allows you to share videos with a selected friend. Only once they have watched, or saved the video can they post there own back. Progress updates can be found  [here](https://andrewcookson.wordpress.com/)| Backend: Ruby, Rails, Postgres /w ActiveRecord, Frontend: Angularjs, HTML5(Slim), CSS3| RSpec, Protractor, Karma
-[Handl](https://github.com/acookson91/handl-frontend) | A applicaton that is the Uber for parcel delivery.  Users can register allowing them to add parcels and track delivery, while couiers can interact with deliveries and find directions, update status| Backend: Ruby, Rails, Postgres /w ActiveRecord, Frontend: Angularjs, HTML5(Slim), CSS3, GoogleMaps API | RSpec, Protractor
+[Handl](https://github.com/acookson91/handl-frontend) | A applicaton that is the Uber for parcel delivery. Users can register allowing them to add parcels and track delivery, while couiers can interact with deliveries and find directions, update status. Video demonstration can be found [here](https://www.youtube.com/watch?v=oSti49Wp3A0).| Backend: Ruby, Rails, Postgres /w ActiveRecord, Frontend: Angularjs, HTML5(Slim), CSS3, GoogleMaps API | RSpec, Protractor
 [Post a Goat](https://github.com/acookson91/post-a-goat) | Want to send your friend a goat emoji text? Probably not, but we wanted to. Doing this was our first experience creating an angularJS Frontend with Rails backend   | Backend: Ruby, Rails, Postgres /w ActiveRecord,<br> Frontend: Angularjs, HTML5(Slim), CSS3, Twilio API | RSpec, Capybara, Protractor
 [Air BnB Clone](https://github.com/acookson91/makers_bnb) | A AirBnb clone built using Sinatra. We were able to create the full funtionality of AirBnb including users,messages,booking requests and booking confirmations | Backend: Ruby, Sinatra, Postgres /w DataMapper, Frontend: HTML5(Slim), CSS3, Bootstrap| RSpec, Capybara, Jasmine -
 
