@@ -59,7 +59,7 @@ UK's largest independent contract catering firm.
 
 ## Education
 
-#### Makers Academy (_Oct 2015 - Feb 2016_)
+#### Makers Academy (_Feb 2016-Jun 2016_)
 
 * Intensive 12 week bootcamp focused on developing a mindset and attitude within junior developers to always aim to 'build things right'
 * Worked with a very wide variety of languages and technologies
