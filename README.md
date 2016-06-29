@@ -10,12 +10,12 @@ Now I'm looking for a role which gives me the opportunity to continue progressin
 
 #### Software/Web Development
 
-* A strong interest in keeping technical debt to a minimum (OOP Principles such as SOLID and DRY)
+* A strong interest in keeping technical debt to a minimum
 * Experience building Apps with: Rails, AngularJS, ExpressJS and Sinatra
-* Comfortable testing using: RSpec, Capybara, Selenium, Jasmine, Karma and Protractor
+* Comfortable testing using: RSpec, Capybara, Cucumber, Selenium, Jasmine, Karma and Protractor
 * Experience working with both SQL and NoSQL databases
 * Practiced modern development methodologies including agile, XP, TDD/BDD, pair programming
-* Design to HTML/CSS web pages
+* Responsive web design
 
 #### Management
 
